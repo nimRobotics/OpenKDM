@@ -1,3 +1,8 @@
+<figure align="center">
+<img align="center" src="assets/OpenKDM_wide-trans.png" id="logo" alt="logo"/>
+</figure>
+
+
 
 # Introduction
 
@@ -5,7 +10,7 @@ This work titled as "Design and Fabrication of Experiment for Dynamic Analysis o
 
 |website| GitHub |
 |--|--|
-| [https://nimrobotics.github.io/BTP/](https://nimrobotics.github.io/BTP/) | [https://github.com/nimRobotics/BTP](https://github.com/nimRobotics/BTP) |
+| [https://nimrobotics.github.io/OpenKDM/](https://nimrobotics.github.io/OpenKDM/) | [https://github.com/nimRobotics/OpenKDM](https://github.com/nimRobotics/OpenKDM) |
 
 
 ## Motivation and objective
@@ -19,21 +24,11 @@ The learner gets to "play" with the mechanism parameters and immediately underst
 and the development of analytical skills. Hence greatly supplementing and reinforcing the theoretical understanding of the undergraduate
 students taking the course.
 
-<figure align="center">
-<img align="center" src="Pictures/cad_model.png" id="cad_ful" alt=""/><figcaption>1. CAD model of the mechanism</figcaption>
-</figure>
 
-<figure align="center">
-<img src="Pictures/all_mech.png" id="cad_all" alt=""/><figcaption>2. Three possible configurations of the mechanism: (a) Four bar, (b) Slider crank and (c) Six bar</figcaption>
-</figure>
+## License
+MIT
 
 
-## Present method(s) and challenges
-
-In the present scenario finding standard mechanisms integrated with different sensor measurements and data acquisition is hard to find.
-Almost all the mechanisms that are available off-the-shelf do not have any data measurement capability and thus can only be used for
-demonstrations purpose and not as an experimental setup. 
-
-In chapter 2 we present thoroughly all the methodologies used in designing and modeling the mechanisms. This includes both the analysis
-carried out by analytical as well as numerical methods. In the chapter that follows we bring out the various design considerations that have to
-be taken into account while manufacturing the product. The final two sections present the result(s) and the conclusion(s).
+## Requirements
+- Python 3.6.9
+- pip3 install -r 'requirements.txt'

@@ -1,0 +1,11 @@
+Python==3.6.9
+numpy==1.18.2
+system-service==0.3
+systemd-python==234
+PyQt5==5.14.2
+PyQt5-sip==12.7.2
+matplotlib==3.2.1
+mpmath==1.1.0
+PyInstaller==3.4
+fbs==0.8.6
+setuptools<45.0.0
