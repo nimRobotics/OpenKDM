@@ -1,0 +1,49 @@
+installed fbs
+https://github.com/mherrmann/fbs-tutorial
+
+
+installed pyinstaller
+
+
+installed fpm and its dependencies
+https://fpm.readthedocs.io/en/latest/installing.html
+
+
+# steps to deploy
+fbs startproject
+fbs run
+fbs freeze --debug
+fbs installer 
+fbs release
+
+
+
+# to debug freeze 
+fbs freeze --debug
+
+# if freezed file doesn't start
+./OpenKDM
+
+
+To solve the issue with freezed matplotlib 
+pip3 install --upgrade 'setuptools<45.0.0'
+also try specifying matplotlib backend at the top @   matplotlib.use("Qt5Agg")
+
+
+
+You can for instance install it via the
+following command:
+    sudo dpkg -i target/OpenKDM.deb
+This places it in /opt/OpenKDM. To uninstall it again, you can use:
+    sudo dpkg --purge OpenKDM
+
+https://build-system.fman.io/manual/
+for app release
+aakash@aakash ~> pip3 install fbs[upload]
+
+
+fbs register
+Name: aakash
+email: aakashyadav1911s@gmail.com
+Pass: justdoit
+
