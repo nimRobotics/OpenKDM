@@ -1,69 +1,39 @@
-# Jekyll Cayman theme
 
-This is a [Jekyll][1] theme for [@jasonlong][2]'s [Cayman theme][4] on [GitHub Pages][3].
+# Introduction
 
-Cayman is a clean, responsive theme for [GitHub Pages](https://pages.github.com). This theme is available as an option if you use the [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator/) or you can copy the template and styles to use on your own.
+This work titled as "Design and Fabrication of Experiment for Dynamic Analysis of Mechanisms " has been undertaken jointly by [Aakash Yadav](http://nimrobotics.github.io/) and Akhil Akunuru under the guidance of [Prof. Sriram Sundar](https://iittp.ac.in/dr-sriram-sundar).
 
-You can preview the theme at https://jasonlong.github.io/cayman-theme or with real content at https://jasonlong.github.io/geo_pattern.
-
-![](https://cl.ly/image/1T3r3d18311V/content)
-
-# How to use it?
-
-Download the theme @ https://github.com/pietromenna/jekyll-cayman-theme/archive/master.zip
-
-Unzip it and use it as a regular jekyll folder.
-
-```
-$ unzip jekyll-cayman-theme-master.zip
-```
-
-Get inside the newly extracted folder
-```
-$ cd jekyll-cayman-theme-master
-```
-
-Get the required gems
-```
-$ bundle install
-```
-
-Use it!
-
-```
-$ jekyll serve
-```
-
-For more details read about [Jekyll][1] on its web page.
-
-# Setup
-
-Some important configuration can be done in the file `_config.yml`. Please, check the Setup section in that file.
+|website| GitHub |
+|--|--|
+| [https://nimrobotics.github.io/BTP/](https://nimrobotics.github.io/BTP/) | [https://github.com/nimRobotics/BTP](https://github.com/nimRobotics/BTP) |
 
 
-## baseurl
+## Motivation and objective
 
-`baseurl` parameter is required in the case the site doesn't sit on the root of the domain. For example: https://pietromenna.github.io/jekyll-cayman-theme
+The study of the *"Kinematics and Dynamics of Machinery" (IITT course code: ME2206)* lies at the very core of a mechanical engineering
+background. Although, little has changed in the way the subject is presented, our methodology brings the subject alive and current. We
+present the design and fabrication of a novel experimental setup for carrying out static, kinematic and dynamic analysis of three different
+mechanisms in a single setup (Figure <a href="#cad_ful" data-reference-type="ref" data-reference="cad_ful">1</a>). The mechanism is designed to be configurable to three different types of mechanisms namely - double crank, slider crank and a six bar mechanism depending on the use case as shown in Figure <a href="#cad_all" data-reference-type="ref" data-reference="cad_all">2</a>. The mechanism has retrofitted parts (different link lengths and sliders) to facilitate multiple experiments in the same setup.
 
-In the case above the baseurl should be set to "/jekyll-cayman-theme".
+The learner gets to "play" with the mechanism parameters and immediately understand their effects. This will enhance one’s grasp of the concepts
+and the development of analytical skills. Hence greatly supplementing and reinforcing the theoretical understanding of the undergraduate
+students taking the course.
 
-In the case the site sits in the root, you can leave `baseurl` as empty "".
+<figure align="center">
+<img align="center" src="Pictures/cad_model.png" id="cad_ful" alt=""/><figcaption>1. CAD model of the mechanism</figcaption>
+</figure>
 
-# Contributing
+<figure align="center">
+<img src="Pictures/all_mech.png" id="cad_all" alt=""/><figcaption>2. Three possible configurations of the mechanism: (a) Four bar, (b) Slider crank and (c) Six bar</figcaption>
+</figure>
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/pietromenna/jekyll-cayman-theme.
 
-# Development
+## Present method(s) and challenges
 
-To set up your environment to develop this theme, run `bundle install`.
+In the present scenario finding standard mechanisms integrated with different sensor measurements and data acquisition is hard to find.
+Almost all the mechanisms that are available off-the-shelf do not have any data measurement capability and thus can only be used for
+demonstrations purpose and not as an experimental setup. 
 
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
-
-# License
-
-This work is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) license.
-
-[1]: https://jekyllrb.com/
-[2]: https://github.com/jasonlong
-[3]: https://pages.github.com/
-[4]: https://github.com/jasonlong/cayman-theme
+In chapter 2 we present thoroughly all the methodologies used in designing and modeling the mechanisms. This includes both the analysis
+carried out by analytical as well as numerical methods. In the chapter that follows we bring out the various design considerations that have to
+be taken into account while manufacturing the product. The final two sections present the result(s) and the conclusion(s).
