@@ -2,7 +2,7 @@
 <img align="center" src="assets/OpenKDM_wide-trans.png" id="logo" alt="logo"/>
 </figure>
 
-
+> Will be updated soon, please look back in sometime.
 
 # Introduction
 
