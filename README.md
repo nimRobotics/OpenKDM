@@ -22,8 +22,8 @@ The learner gets to "play" with the mechanism parameters and immediately underst
 
 ## Resources
 
-|Item | Location|
-|--|--|--|
+| Item | Location |
+|--|--|
 |Raspberry Pi image (custom)|./rpi_imgs|
 |OpenKDM software|<ul><li>[Linux](https://drive.google.com/file/d/16spkkD5D2bzQwbl58bvUfmCC2IGVPCBq/view?usp=sharing)</li><li>OSX</li><li>Windows</li></ul>|
 |Project Report|TBD|
