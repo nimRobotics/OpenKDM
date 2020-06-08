@@ -39,11 +39,4 @@ This places it in /opt/OpenKDM. To uninstall it again, you can use:
 
 https://build-system.fman.io/manual/
 for app release
-aakash@aakash ~> pip3 install fbs[upload]
-
-
-fbs register
-Name: aakash
-email: aakashyadav1911s@gmail.com
-Pass: justdoit
-
+~> pip3 install fbs[upload]

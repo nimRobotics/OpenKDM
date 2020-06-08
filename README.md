@@ -1,3 +1,4 @@
+
 <figure align="center">
 <img align="center" src="assets/logo/OpenKDM_wide-trans.png" id="logo" alt="logo"/>
 </figure>
@@ -19,6 +20,14 @@ The study of the *"Kinematics and Dynamics of Machinery" (IITT course code: ME22
 
 The learner gets to "play" with the mechanism parameters and immediately understand their effects. This will enhance one’s grasp of the concepts and the development of analytical skills. Hence greatly supplementing and reinforcing the theoretical understanding of the undergraduate students taking the course.
 
+## Resources
+|Item | Location|
+|--|--|--|
+|Raspberry Pi image (custom)|./rpi_imgs|
+|OpenKDM software|<ul><li>[Linux](https://drive.google.com/file/d/16spkkD5D2bzQwbl58bvUfmCC2IGVPCBq/view?usp=sharing)</li><li>OSX</li><li>Windows</li></ul>|
+|Project Report|TBD|
+|Raspberry Pi software stack|./rpi_OpenKDM|
+|OpenKDM software stack|./py_OpenKDM|
 
 ## License
 MIT

@@ -1,0 +1,1 @@
+To build locally on your machine `bash makeFbsReady.sh`
