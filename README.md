@@ -10,7 +10,7 @@ This work titled as "Design and Fabrication of Experiment for Dynamic Analysis o
 
 |Website| GitHub | YouTube |
 |--|--|--|
-| [https://nimrobotics.github.io/OpenKDM/](https://nimrobotics.github.io/OpenKDM/) | [https://github.com/nimRobotics/OpenKDM](https://github.com/nimRobotics/OpenKDM) |  <ul><li><https://www.youtube.com/watch?v=741drZK-4sk></li><li><https://www.youtube.com/watch?v=1nqF1lyesHM></li></ul>  |
+| [https://nimrobotics.github.io/OpenKDM/](https://nimrobotics.github.io/OpenKDM/) | [https://github.com/nimRobotics/OpenKDM](https://github.com/nimRobotics/OpenKDM) |  <ul><li><https://youtu.be/741drZK-4sk></li><li><https://youtu.be/1nqF1lyesHM></li></ul>  |
 
 
 ## Motivation and objective
