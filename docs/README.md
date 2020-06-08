@@ -5,11 +5,11 @@
 
 # Introduction
 
-This work titled as "Design and Fabrication of Experiment for Dynamic Analysis of Mechanisms" has been undertaken jointly by [Aakash Yadav](http://nimrobotics.github.io/) and Akhil Akunuru under the guidance of [Prof. Sriram Sundar](https://iittp.ac.in/dr-sriram-sundar).
+This work titled as "Design and Fabrication of Experiment for Dynamic Analysis of Mechanisms" has been undertaken jointly by [Aakash Yadav](http://nimrobotics.github.io/) and Akhil Akunuru under the guidance of [Prof. Sriram Sundar](https://iittp.ac.in/dr-sriram-sundar). For details please visit the GitHub page.
 
 |Website| GitHub | YouTube |
 |--|--|--|
-| [https://nimrobotics.github.io/OpenKDM/](https://nimrobotics.github.io/OpenKDM) | [https://github.com/nimRobotics/OpenKDM](https://github.com/nimRobotics/OpenKDM) |  <https://youtu.be/741drZK-4sk> and <https://youtu.be/1nqF1lyesHM>|
+| [https://nimrobotics.github.io/OpenKDM/](https://nimrobotics.github.io/OpenKDM) | [https://github.com/nimRobotics/OpenKDM](https://github.com/nimRobotics/OpenKDM) |  <https://youtu.be/741drZK-4sk> <https://youtu.be/1nqF1lyesHM>|
 
 
 ## Motivation and objective
