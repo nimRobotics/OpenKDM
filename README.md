@@ -1,5 +1,5 @@
 <figure align="center">
-<img align="center" src="assets/OpenKDM_wide-trans.png" id="logo" alt="logo"/>
+<img align="center" src="assets/logo/OpenKDM_wide-trans.png" id="logo" alt="logo"/>
 </figure>
 
 > Will be updated soon, please look back in sometime.
@@ -10,7 +10,7 @@ This work titled as "Design and Fabrication of Experiment for Dynamic Analysis o
 
 |Website| GitHub | YouTube |
 |--|--|--|
-| [https://nimrobotics.github.io/OpenKDM/](https://nimrobotics.github.io/OpenKDM/) | [https://github.com/nimRobotics/OpenKDM](https://github.com/nimRobotics/OpenKDM) |  <ul><li><https://youtu.be/741drZK-4sk></li><li><https://youtu.be/1nqF1lyesHM></li></ul>  |
+| [https://nimrobotics.github.io/OpenKDM/](https://nimrobotics.github.io/OpenKDM) | [https://github.com/nimRobotics/OpenKDM](https://github.com/nimRobotics/OpenKDM) |  <ul><li><https://youtu.be/741drZK-4sk></li><li><https://youtu.be/1nqF1lyesHM></li></ul>|
 
 
 ## Motivation and objective
@@ -26,4 +26,4 @@ MIT
 
 ## Requirements
 - Python 3.6.9
-- pip3 install -r `requirements.txt`
+- `pip3 install -r requirements.txt`
