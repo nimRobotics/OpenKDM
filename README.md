@@ -21,6 +21,7 @@ The study of the *"Kinematics and Dynamics of Machinery" (IITT course code: ME22
 The learner gets to "play" with the mechanism parameters and immediately understand their effects. This will enhance one’s grasp of the concepts and the development of analytical skills. Hence greatly supplementing and reinforcing the theoretical understanding of the undergraduate students taking the course.
 
 ## Resources
+
 |Item | Location|
 |--|--|--|
 |Raspberry Pi image (custom)|./rpi_imgs|
