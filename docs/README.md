@@ -5,7 +5,7 @@
 
 # Introduction
 
-This work titled as "Design and Fabrication of Experiment for Dynamic Analysis of Mechanisms" has been undertaken jointly by [Aakash Yadav](http://nimrobotics.github.io/) and Akhil Akunuru under the guidance of [Prof. Sriram Sundar](https://iittp.ac.in/dr-sriram-sundar). For details please visit the GitHub page.
+This work titled as "[Design and Fabrication of Experiment for Dynamic Analysis of Mechanisms](https://nimrobotics.github.io/assets/btp_report.pdf)" has been undertaken jointly by [Aakash Yadav](http://nimrobotics.github.io/) and Akhil Akunuru under the guidance of [Prof. Sriram Sundar](https://iittp.ac.in/dr-sriram-sundar). For details please visit the GitHub page.
 
 |Website| GitHub | YouTube |
 |--|--|--|
