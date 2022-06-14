@@ -6,6 +6,6 @@ PyQt5==5.14.2
 PyQt5-sip==12.7.2
 matplotlib==3.2.1
 mpmath==1.1.0
-PyInstaller==3.4
+PyInstaller==3.6
 fbs==0.8.6
 setuptools<45.0.0
