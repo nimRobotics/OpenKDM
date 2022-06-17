@@ -1,5 +1,5 @@
 Python==3.6.9
-numpy==1.18.2
+numpy==1.21.0
 system-service==0.3
 systemd-python==234
 PyQt5==5.14.2
